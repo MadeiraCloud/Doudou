@@ -1,0 +1,21 @@
+body {
+  background-color: #ffc900;
+  text-align: center;
+  padding: 5%;
+}
+.logo {
+  width: 20%;
+  margin-bottom: 6%;
+}
+.intro {
+  width: 80%;
+}
+.title {
+  font-size: 200%;
+  font-weight: bold;
+  margin-bottom: 1%;
+}
+.subtitle {
+  font-size: 130%;
+  margin-bottom: 8%;
+}
